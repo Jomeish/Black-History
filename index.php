@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Homepage - Start Bootstrap Template</title>
+        <title>Homepage - Harlem Renaissance</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
       
@@ -19,10 +19,12 @@
        <?php echo $nav; ?>
         <!-- Header-->
         <header class="bg-dark py-5">
-            <div class="container px-4 px-lg-5 my-5">
-                <div class="text-center text-white">
-                    <h1 class="display-4 fw-bolder">Home</h1>
-                    <p class="lead fw-normal text-white-50 mb-0">With this shop hompeage template</p>
+            <div class="bg-image" 
+     style="background-image: url('https://hk-imagemakersinc.com/eventimages/18829.png');
+            height: 27vh">
+                <div class="text-center text-black pt-4">
+                    <h1 class="display-4 fw-bolder">The Harlem Renaissance</h1>
+                    <p class="lead fw-normal text-black mb-0">A rivival of African American arts in New York</p>
                 </div>
             </div>
         </header>
@@ -32,42 +34,18 @@
                 <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
                     <div class="col mb-5">
                         <div class="card h-100">
-                            <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
-                            <!-- Product details-->
+                            <!-- image-->
+                            <img class="card-img-top" src="https://cdn.britannica.com/33/227033-050-743B4E1A/Zora-Neale-Hurston.jpg" alt="..." />
+                            <!-- details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Name-->
-                                    <h5 class="fw-bolder">Name</h5>
-                                    <!-- Product price-->
-                                    Placeholder
-                                </div>
-                            </div>
-                            <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Learn More</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col mb-5">
-                        <div class="card h-100">
-                            <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
-                            <!-- Product details-->
-                            <div class="card-body p-4">
-                                <div class="text-center">
-                                    <!-- Name-->
-                                    <h5 class="fw-bolder">Name</h5>
-                                    <!-- Product reviews-->
-                                    <div class="d-flex justify-content-center small text-warning mb-2">
-                                   
-                                    </div>
-                                    <!-- Product price-->
+                                    <h5 class="fw-bolder">Zora Neale Hurston</h5>
                                     
                                     Placeholder
                                 </div>
                             </div>
-                            <!-- Product actions-->
+                            <!-- actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
                                 <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Learn More</a></div>
                             </div>
@@ -75,105 +53,23 @@
                     </div>
                     <div class="col mb-5">
                         <div class="card h-100">
-                            <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
-                            <!-- Product details-->
+                            <!-- image-->
+                            <img class="card-img-top" src="https://cdn.britannica.com/01/301-050-049D071C/Duke-Ellington.jpg" alt="..." />
+                            <!-- details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Name-->
-                                    <h5 class="fw-bolder">Name</h5>
-                                    <!-- Product price-->
-                                   
-                                    Placeholder
-                                </div>
-                            </div>
-                            <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Learn More</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col mb-5">
-                        <div class="card h-100">
-                            <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
-                            <!-- Product details-->
-                            <div class="card-body p-4">
-                                <div class="text-center">
-                                    <!-- Name-->
-                                    <h5 class="fw-bolder">Name</h5>
-                                    <!-- Product reviews-->
+                                    <h5 class="fw-bolder">Duke Ellington</h5>
+                                    <!-- reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
-                                        
-                                    </div>
-                                    <!-- Product price-->
-                                    Placeholder
-                                </div>
-                            </div>
-                            <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Learn More</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col mb-5">
-                        <div class="card h-100">
-                            <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
-                            <!-- Product details-->
-                            <div class="card-body p-4">
-                                <div class="text-center">
-                                    <!-- Name-->
-                                    <h5 class="fw-bolder">Name</h5>
-                                    <!-- Product price-->
                                    
-                                    Placeholder
-                                </div>
-                            </div>
-                            <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Learn More</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col mb-5">
-                        <div class="card h-100">
-                            <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
-                            <!-- Product details-->
-                            <div class="card-body p-4">
-                                <div class="text-center">
-                                    <!-- Name-->
-                                    <h5 class="fw-bolder">Name</h5>
-                                    <!-- Product price-->
-                                    Placeholder
-                                </div>
-                            </div>
-                            <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Learn More</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col mb-5">
-                        <div class="card h-100">
-                            <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
-                            <!-- Product details-->
-                            <div class="card-body p-4">
-                                <div class="text-center">
-                                    <!-- Name-->
-                                    <h5 class="fw-bolder">Name</h5>
-                                    <!-- Product reviews-->
-                                    <div class="d-flex justify-content-center small text-warning mb-2">
-                                        
                                     </div>
-                                    <!-- Product price-->
-                                   
+                                    
+                                    
                                     Placeholder
                                 </div>
                             </div>
-                            <!-- Product actions-->
+                            <!-- actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
                                 <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Learn More</a></div>
                             </div>
@@ -181,22 +77,40 @@
                     </div>
                     <div class="col mb-5">
                         <div class="card h-100">
-                            <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
-                            <!-- Product details-->
+                            <!-- image-->
+                            <img class="card-img-top" src="http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcSDukkZE-DgcB1CCu6w1-g_mnyQTB_5EBKKBHob4EpDdsxyBLsU0EnUCMs3OYIVrW3tOEVgIUqul6VoTYY" alt="..." />
+                            <!-- details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Name-->
-                                    <h5 class="fw-bolder">Name</h5>
-                                    <!-- Product reviews-->
+                                    <h5 class="fw-bolder">Louis Armstrong</h5>
+                                    Placeholder
+                                </div>
+                            </div>
+                            <!-- Actions-->
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Learn More</a></div>
+                            </div>
+                        </div>
+                    </div>          
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                            <!-- Image-->
+                            <img class="card-img-top" src="https://cdn.britannica.com/47/177947-050-A8D7D770/Bessie-Smith-photograph-Carl-Van-Vechten-1936.jpg" alt="..." />
+                            <!-- Details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Name-->
+                                    <h5 class="fw-bolder">Bessie Smith</h5>
+                                    <!-- Reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                   
                                     </div>
-                                    <!-- Product price-->
+                                    
                                     Placeholder
                                 </div>
                             </div>
-                            <!-- Product actions-->
+                            <!-- actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
                                 <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Learn More</a></div>
                             </div>
